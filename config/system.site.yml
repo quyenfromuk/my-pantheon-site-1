@@ -4,7 +4,7 @@ langcode: en
 uuid: dff15af1-5197-47db-b2b8-a46bfc605121
 name: my-pantheon-site-1
 mail: quyen.tu@optimus-education.com
-slogan: ''
+slogan: 'my test slogan'
 page:
   403: ''
   404: ''
